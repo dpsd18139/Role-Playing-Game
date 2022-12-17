@@ -82,8 +82,27 @@ gets hit. I imported them to unity and the game could show when the player gets 
 
 However there was no indication for when the health gets to zero. So I programmed a game manager added a custom script to reset the scene after the player gets hit.
 
+After that I also decided I want to have the players currenth health visible to the player so I also added a text mesh pro object and a script to change it.
 
+I downloaded some food sprites I found online and added a jar of marmelade to heal the player because I love marmelade. I added projectiles so I used the steak sprite from the same pack. No specific reason why I chose steaks.
 
+In the end, I wanted to make the npc character get angry and chase down the player if they hit her with the projectile 3 times, but I couldn't find a way in time 
+for the deliverable so I chose not to.
+
+But I wanted the game to feel a bit more interactive so I left behind messages for the player if they get near the icon of the old compurter disk on the left.
+
+I made it work with isTrigger 2d box colliders and made the text change once they exit it there will be a second message, but there's a bug and the player might miss the first message if they throw a projectile on the area or dont stay long enough to read it, I intend to fix on the next version.
+
+Then I made the npc character chase the player with a custom scrpit but it's not visibl
+
+Here are the two texts I added in case you missed them.
+
+I also wrote a small story ( only one chapter for now) so that I can get inspired to make this game something that is worth playing on it's own.
+My hope is that this game will live on even after the end of the semester and we will be left with a nice story to experience.
+
+You can find the draft on the my_report>dpsd18139 folder.
+But here is the link for convenience.
+https://github.com/dpsd18139/Role-Playing-Game/blob/main/my_report/dpsd18139/BehindTransientGarden_ch0.pdf
 
 # 3rd Deliverable 
 

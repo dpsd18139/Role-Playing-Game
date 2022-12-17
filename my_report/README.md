@@ -21,6 +21,11 @@ TBA
 I wrote a story draft about this game's plot. 
 Then I made some concept art of my two characters. The main character, who is controlled by the player was designed in a way to appear androgynous/gender ambiguous. This way both genders will be able to put themselves in the characters shoes, without men having their fragile masculinity threatened. The other character is a mysterious young girl, at first glace appearing devoid of human emotion and common video game logic. As the game progresses we will learn more and more about this game through this character.
 
+
+![IMG_1281](https://user-images.githubusercontent.com/115796369/208269375-c52488ca-0d13-48cf-8268-aa89fd233a0e.PNG)
+
+![IMG_1521](https://user-images.githubusercontent.com/115796369/208269405-640b520e-bdf5-4e12-b996-bc833957677d.PNG)
+
 Then I used this character generator to create our character sprite models in a way that would correspond to the concept art I made earlier.
 My initial plan was to make my own 2D pixel art sprites and animation, but I couldn't do it in time for this deliverable. I intend to do so for the next one.
 https://picrew.me/image_maker/36838

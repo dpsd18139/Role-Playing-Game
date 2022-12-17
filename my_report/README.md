@@ -116,13 +116,13 @@ TBA !!!
 # Sources
 
 * Tilemap: https://cainos.itch.io/pixel-art-top-down-basic
-Character Generator:https://picrew.me/image_maker/36838
-Music:https://www.youtube.com/watch?v=YOxZh2OaydM
-Animated Traps: https://stealthix.itch.io/animated-traps
-Slime Enemy: https://warsvault.itch.io/high-fantasy-slime-enemy 
-Food Icons: https://henrysoftware.itch.io/pixel-food
-RPG Icon demo: https://franuka.itch.io/rpg-icon-pack-demo
-Silver font: https://poppyworks.itch.io/silver
+* Character Generator:https://picrew.me/image_maker/36838
+* Music:https://www.youtube.com/watch?v=YOxZh2OaydM
+* Animated Traps: https://stealthix.itch.io/animated-traps
+* Slime Enemy: https://warsvault.itch.io/high-fantasy-slime-enemy 
+* Food Icons: https://henrysoftware.itch.io/pixel-food
+* RPG Icon demo: https://franuka.itch.io/rpg-icon-pack-demo
+* Silver font: https://poppyworks.itch.io/silver
 
 # Tools
 Aseprite: https://dacap.itch.io/aseprite

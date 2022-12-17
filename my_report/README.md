@@ -83,6 +83,7 @@ gets hit. I imported them to unity and the game could show when the player gets 
 However there was no indication for when the health gets to zero. So I programmed a game manager added a custom script to reset the scene after the player gets hit.
 
 After that I also decided I want to have the players currenth health visible to the player so I also added a text mesh pro object and a script to change it.
+I also imported a custom pixel font for a more universal look. 
 
 I downloaded some food sprites I found online and added a jar of marmelade to heal the player because I love marmelade. I added projectiles so I used the steak sprite from the same pack. No specific reason why I chose steaks.
 
@@ -97,7 +98,9 @@ Then I made the npc character chase the player with a custom scrpit but it's not
 
 Here are the two texts I added in case you missed them.
 
-I also wrote a small story ( only one chapter for now) so that I can get inspired to make this game something that is worth playing on it's own.
+I also did some post processing to make the game more atmospheric, hopefully inducing the feeling of a dream.
+
+Finally I wrote a small story ( only one chapter for now) so that I can get inspired to make this game something that is worth playing on it's own.
 My hope is that this game will live on even after the end of the semester and we will be left with a nice story to experience.
 
 You can find the draft on the my_report>dpsd18139 folder.
@@ -105,7 +108,7 @@ But here is the link for convenience.
 https://github.com/dpsd18139/Role-Playing-Game/blob/main/my_report/dpsd18139/BehindTransientGarden_ch0.pdf
 
 # 3rd Deliverable 
-
+TBA !!!
 
 # Conclusions
 
@@ -115,4 +118,13 @@ https://github.com/dpsd18139/Role-Playing-Game/blob/main/my_report/dpsd18139/Beh
 Tilemap: https://cainos.itch.io/pixel-art-top-down-basic
 Character Generator:https://picrew.me/image_maker/36838
 Music:https://www.youtube.com/watch?v=YOxZh2OaydM
+Animated Traps: https://stealthix.itch.io/animated-traps
+Slime Enemy: https://warsvault.itch.io/high-fantasy-slime-enemy 
+Food Icons: https://henrysoftware.itch.io/pixel-food
+RPG Icon demo: https://franuka.itch.io/rpg-icon-pack-demo
+Silver font: https://poppyworks.itch.io/silver
+
+# Tools
+Aseprite: https://dacap.itch.io/aseprite
+
 ======

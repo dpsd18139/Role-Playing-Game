@@ -30,6 +30,10 @@ Then I used this character generator to create our character sprite models in a 
 My initial plan was to make my own 2D pixel art sprites and animation, but I couldn't do it in time for this deliverable. I intend to do so for the next one.
 https://picrew.me/image_maker/36838
 
+![MC2 0](https://user-images.githubusercontent.com/115796369/208269466-aea42ee2-8bd3-4b2c-9c92-3dbbaf3cc360.png)
+![Dee](https://user-images.githubusercontent.com/115796369/208269467-e0911848-187d-4de6-9a61-c3ef6b081dfc.png)
+
+
 After that I used a tile map I found on itch.io to create this map. My original goal was to find one that looks like a small night city but couldn't find find one that matched my vision so I used this one as a placeholder for the deliverable.
 
 The graveyard is a crucial part of the story, so I intend to keep it.
@@ -37,6 +41,8 @@ The graveyard is a crucial part of the story, so I intend to keep it.
 I added a simple coloured semi transparent rectangle sprite as a filter to simulate a soft evening feel.
 
 Lastly, I used a nostalgia inducing piano song I found on YouTube as backround music. Again, I originally intended to create my own music for this project, but again, I indend to do it for the next one!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YOxZh2OaydM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I also intend to fix  the colliders.
 

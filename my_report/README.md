@@ -42,7 +42,7 @@ I added a simple coloured semi transparent rectangle sprite as a filter to simul
 
 Lastly, I used a nostalgia inducing piano song I found on YouTube as backround music. Again, I originally intended to create my own music for this project, but again, I indend to do it for the next one!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YOxZh2OaydM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=YOxZh2OaydM
 
 I also intend to fix  the colliders.
 
@@ -54,16 +54,31 @@ I spent 2 days in front of my laptop and added so many things I don't remember t
 First I decided to edit my main character's sprite so that they can change direction when the player presses a key.
 
 I designed and drew the new pixel art sides myself using the pixel art program editor aseprite.
-Here is the before and after.
+
+![IMG_1523](https://user-images.githubusercontent.com/115796369/208269629-cd8b0da2-38cd-4a23-acd4-88cce2d19c77.jpg)
+
+Here is the after.
+
+![IMG_1324](https://user-images.githubusercontent.com/115796369/208269650-3bbb7cab-ffb9-4ef3-9729-e8de98fb8d31.GIF)
+
 
 Then I imported them into the game to test the animator. It worked but simply changing the direction of my character while walking did not feel natural enough.
 
+
+
 Sooooooooooooo
 
-I decided to animate four directions of walking.
+I decided to animate four directions of walking myself ( for the first time) .
+
 I  designed the walk using 8 frames for each direction.
 
-Again this is the before and after.
+Again this is the four gifs I drew.
+
+![MC2 0_front](https://user-images.githubusercontent.com/115796369/208269669-dcb02047-b0de-450f-8b7f-bab21caf8b31.gif)
+![MC2 0_left](https://user-images.githubusercontent.com/115796369/208269671-f0a0e37e-fd0e-4c12-9dfc-1f6748acfe68.gif)
+![MC2 0_right](https://user-images.githubusercontent.com/115796369/208269673-0dfe6019-18fe-46df-b2a5-cab2f2a2d63b.gif)
+![MC2 0_back](https://user-images.githubusercontent.com/115796369/208269674-c708af01-f996-47b3-b4ed-9c132d1cd342.gif)
+
 
 I imported everything in unity and fixed the animation so that the player can switch between a state of moving (using the walking animation), not moving 
 (while holding the previous direction of the character).
@@ -90,6 +105,11 @@ After all that I discovered that there will be no way to tell the changes made t
 
 So I opened up aseprite editor and added a red transparent layer on top of the 4 sides of the character to use them as custom animations, indicating when they player
 gets hit. I imported them to unity and the game could show when the player gets hit.
+![backhit](https://user-images.githubusercontent.com/115796369/208269702-61e03f19-dc73-4db4-9845-f82fbcbd4cb6.png)
+![fronthit](https://user-images.githubusercontent.com/115796369/208269703-2b79fb20-d4e9-4edf-8274-65810fed4e8e.png)
+![lefthit](https://user-images.githubusercontent.com/115796369/208269704-42942664-d0ab-4d60-9309-d0b3941f8651.png)
+![righthit](https://user-images.githubusercontent.com/115796369/208269706-1e19b3af-0a4b-4e90-beb0-d732ddce3c9d.png)
+
 
 However there was no indication for when the health gets to zero. So I programmed a game manager added a custom script to reset the scene after the player gets hit.
 
@@ -101,15 +121,26 @@ I downloaded some food sprites I found online and added a jar of marmelade to he
 In the end, I wanted to make the npc character get angry and chase down the player if they hit her with the projectile 3 times, but I couldn't find a way in time 
 for the deliverable so I chose not to.
 
+Here is the chasing script though, it works and I plan on adding it next time.
+
+![IMG_1519](https://user-images.githubusercontent.com/115796369/208269732-67d29663-b9df-41b6-bec4-f2c78fb87e32.jpg)
+
 But I wanted the game to feel a bit more interactive so I left behind messages for the player if they get near the icon of the old compurter disk on the left.
 
 I made it work with isTrigger 2d box colliders and made the text change once they exit it there will be a second message, but there's a bug and the player might miss the first message if they throw a projectile on the area or dont stay long enough to read it, I intend to fix on the next version.
 
-Then I made the npc character chase the player with a custom scrpit but it's not visibl
-
 Here are the two texts I added in case you missed them.
 
 I also did some post processing to make the game more atmospheric, hopefully inducing the feeling of a dream.
+
+You know the drill, Before 
+
+![IMG_1510](https://user-images.githubusercontent.com/115796369/208269757-9f500c01-199d-4d92-ac01-e90f27208098.jpg)
+
+And After 
+
+![IMG_1512](https://user-images.githubusercontent.com/115796369/208269762-1fadb26b-8a57-478f-a5c4-2c03dad66c23.jpg)
+
 
 Finally I wrote a small story ( only one chapter for now) so that I can get inspired to make this game something that is worth playing on it's own.
 My hope is that this game will live on even after the end of the semester and we will be left with a nice story to experience.

@@ -8,13 +8,13 @@
 
 # Introduction
 
-TBA
+TBA ( on the last deliverable)
 
 # Summary
 
 It's a test summary
 
-TBA
+TBA ( on the last deliverable)
 
 # 1st Deliverable
 
@@ -47,6 +47,10 @@ https://www.youtube.com/watch?v=YOxZh2OaydM
 I also intend to fix  the colliders.
 
 P.S. I hope you're able to find the small easter egg i added :)
+
+((spoilers :) ))
+
+![Στιγμιότυπο οθόνης 2022-12-18 015020](https://user-images.githubusercontent.com/115796369/208270491-ac826669-0b66-4b7d-aa95-5936ec16ecff.png)
 
 # 2nd Deliverable
 I spent 2 days in front of my laptop and added so many things I don't remember the exact order, but I will do my best to make my fried brain remember.
@@ -96,7 +100,12 @@ But I adjusted the pivot point on my sprites and it made everything seem a bit m
 I added health to my player. 
 
 Then I Added Enemies. First I added an animated spike trap.
+
+![RlYTwO](https://user-images.githubusercontent.com/115796369/208269872-55477228-285a-4ab5-8a76-aa14b780cc4c.gif)
+
 Then an animated Red slime. I programmed them to move in a square and do damage to my player. 
+
+![4TsZ10](https://user-images.githubusercontent.com/115796369/208269857-f34f20fc-aa88-4ea7-bdd8-46dc59810f74.gif)
 
 Then after testing I found out that 5 lives are far too many and I wanted the game to be a bit less forgiving. So I reduced the max health to 3 health points 
 and set the invincibility timer from 2 to 0.5.
@@ -116,10 +125,21 @@ However there was no indication for when the health gets to zero. So I programme
 After that I also decided I want to have the players currenth health visible to the player so I also added a text mesh pro object and a script to change it.
 I also imported a custom pixel font for a more universal look. 
 
+![tRRefY](https://user-images.githubusercontent.com/115796369/208269839-757279f3-c5ab-4340-b7b7-84cc7903b033.gif)
+
+![Στιγμιότυπο οθόνης 2022-12-18 013805](https://user-images.githubusercontent.com/115796369/208270050-a3bcf370-15cc-49ef-81a3-f2741923bef4.png)
+
+
 I downloaded some food sprites I found online and added a jar of marmelade to heal the player because I love marmelade. I added projectiles so I used the steak sprite from the same pack. No specific reason why I chose steaks.
 
+![Στιγμιότυπο οθόνης 2022-12-18 013845](https://user-images.githubusercontent.com/115796369/208270441-c1b322dd-bfef-439d-8b16-059343d813e2.png)
+
+
+![Food](https://user-images.githubusercontent.com/115796369/208270067-905aa611-7258-4c3b-a5de-13232d54b87f.png)
+
+
 In the end, I wanted to make the npc character get angry and chase down the player if they hit her with the projectile 3 times, but I couldn't find a way in time 
-for the deliverable so I chose not to.
+for the deliverable so I chose not to. And I made her unfreeze her rotating on the z axis whet being hit inspead.
 
 Here is the chasing script though, it works and I plan on adding it next time.
 
@@ -129,7 +149,11 @@ But I wanted the game to feel a bit more interactive so I left behind messages f
 
 I made it work with isTrigger 2d box colliders and made the text change once they exit it there will be a second message, but there's a bug and the player might miss the first message if they throw a projectile on the area or dont stay long enough to read it, I intend to fix on the next version.
 
-Here are the two texts I added in case you missed them.
+Here are the two texts I added in case you missed them, but I recommend playing the game first because they kinda spoil it.
+
+![Στιγμιότυπο οθόνης 2022-12-18 013943](https://user-images.githubusercontent.com/115796369/208270012-6948402d-dbfe-4d0c-8835-95d65e9852ba.png)
+
+![Στιγμιότυπο οθόνης 2022-12-18 014028](https://user-images.githubusercontent.com/115796369/208270018-06be83df-93e6-45e9-87c3-00114eb65257.png)
 
 I also did some post processing to make the game more atmospheric, hopefully inducing the feeling of a dream.
 
@@ -142,7 +166,7 @@ And After
 ![IMG_1512](https://user-images.githubusercontent.com/115796369/208269762-1fadb26b-8a57-478f-a5c4-2c03dad66c23.jpg)
 
 
-Finally I wrote a small story ( only one chapter for now) so that I can get inspired to make this game something that is worth playing on it's own.
+Finally I wrote another small story ( only one chapter for now) so that I can get inspired to make this game something that is worth playing on it's own.
 My hope is that this game will live on even after the end of the semester and we will be left with a nice story to experience.
 
 You can find the draft on the my_report>dpsd18139 folder.

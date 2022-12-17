@@ -115,7 +115,7 @@ TBA !!!
 
 # Sources
 
-Tilemap: https://cainos.itch.io/pixel-art-top-down-basic
+* Tilemap: https://cainos.itch.io/pixel-art-top-down-basic
 Character Generator:https://picrew.me/image_maker/36838
 Music:https://www.youtube.com/watch?v=YOxZh2OaydM
 Animated Traps: https://stealthix.itch.io/animated-traps

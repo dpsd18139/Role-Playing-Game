@@ -26,11 +26,15 @@ Then I made some concept art of my two characters. The main character, who is co
 
 ![IMG_1521](https://user-images.githubusercontent.com/115796369/208269405-640b520e-bdf5-4e12-b996-bc833957677d.PNG)
 
+![IMG_1283](https://user-images.githubusercontent.com/115796369/208270565-f5b275f1-669a-4081-acfb-85ca8be7df7f.PNG)
+
+
 Then I used this character generator to create our character sprite models in a way that would correspond to the concept art I made earlier.
 My initial plan was to make my own 2D pixel art sprites and animation, but I couldn't do it in time for this deliverable. I intend to do so for the next one.
 https://picrew.me/image_maker/36838
 
-![MC2 0](https://user-images.githubusercontent.com/115796369/208269466-aea42ee2-8bd3-4b2c-9c92-3dbbaf3cc360.png)
+![MC2 0_test1](https://user-images.githubusercontent.com/115796369/208270570-cb4410b8-72cb-42a6-ada9-6e6eee5eb7b3.png)
+
 ![Dee](https://user-images.githubusercontent.com/115796369/208269467-e0911848-187d-4de6-9a61-c3ef6b081dfc.png)
 
 
@@ -59,7 +63,7 @@ First I decided to edit my main character's sprite so that they can change direc
 
 I designed and drew the new pixel art sides myself using the pixel art program editor aseprite.
 
-![IMG_1523](https://user-images.githubusercontent.com/115796369/208269629-cd8b0da2-38cd-4a23-acd4-88cce2d19c77.jpg)
+![IMG_1322](https://user-images.githubusercontent.com/115796369/208270582-d3882ba0-6604-427d-8f72-8a6c16e74dd5.jpg)
 
 Here is the after.
 
@@ -68,13 +72,13 @@ Here is the after.
 
 Then I imported them into the game to test the animator. It worked but simply changing the direction of my character while walking did not feel natural enough.
 
-
-
 Sooooooooooooo
 
 I decided to animate four directions of walking myself ( for the first time) .
 
-I  designed the walk using 8 frames for each direction.
+![IMG_1523](https://user-images.githubusercontent.com/115796369/208270594-cd087aed-823b-4344-9b58-d64211e0b9ea.jpg)
+
+I  drew the walk using 8 frames for each direction.
 
 Again this is the four gifs I drew.
 
@@ -114,11 +118,8 @@ After all that I discovered that there will be no way to tell the changes made t
 
 So I opened up aseprite editor and added a red transparent layer on top of the 4 sides of the character to use them as custom animations, indicating when they player
 gets hit. I imported them to unity and the game could show when the player gets hit.
-![backhit](https://user-images.githubusercontent.com/115796369/208269702-61e03f19-dc73-4db4-9845-f82fbcbd4cb6.png)
-![fronthit](https://user-images.githubusercontent.com/115796369/208269703-2b79fb20-d4e9-4edf-8274-65810fed4e8e.png)
-![lefthit](https://user-images.githubusercontent.com/115796369/208269704-42942664-d0ab-4d60-9309-d0b3941f8651.png)
-![righthit](https://user-images.githubusercontent.com/115796369/208269706-1e19b3af-0a4b-4e90-beb0-d732ddce3c9d.png)
 
+![fronthit](https://user-images.githubusercontent.com/115796369/208270719-06d7f8d2-b55a-4999-9350-b9d01ab91912.gif)
 
 However there was no indication for when the health gets to zero. So I programmed a game manager added a custom script to reset the scene after the player gets hit.
 

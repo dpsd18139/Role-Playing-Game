@@ -8,22 +8,35 @@
 
 # Introduction
 
-TBA
+TBA ( on the last deliverable)
 
 # Summary
 
 It's a test summary
 
-TBA
+TBA ( on the last deliverable)
 
 # 1st Deliverable
 
 I wrote a story draft about this game's plot. 
 Then I made some concept art of my two characters. The main character, who is controlled by the player was designed in a way to appear androgynous/gender ambiguous. This way both genders will be able to put themselves in the characters shoes, without men having their fragile masculinity threatened. The other character is a mysterious young girl, at first glace appearing devoid of human emotion and common video game logic. As the game progresses we will learn more and more about this game through this character.
 
+
+![IMG_1281](https://user-images.githubusercontent.com/115796369/208269375-c52488ca-0d13-48cf-8268-aa89fd233a0e.PNG)
+
+![IMG_1521](https://user-images.githubusercontent.com/115796369/208269405-640b520e-bdf5-4e12-b996-bc833957677d.PNG)
+
+![IMG_1283](https://user-images.githubusercontent.com/115796369/208270565-f5b275f1-669a-4081-acfb-85ca8be7df7f.PNG)
+
+
 Then I used this character generator to create our character sprite models in a way that would correspond to the concept art I made earlier.
 My initial plan was to make my own 2D pixel art sprites and animation, but I couldn't do it in time for this deliverable. I intend to do so for the next one.
 https://picrew.me/image_maker/36838
+
+![MC2 0_test1](https://user-images.githubusercontent.com/115796369/208270570-cb4410b8-72cb-42a6-ada9-6e6eee5eb7b3.png)
+
+![Dee](https://user-images.githubusercontent.com/115796369/208269467-e0911848-187d-4de6-9a61-c3ef6b081dfc.png)
+
 
 After that I used a tile map I found on itch.io to create this map. My original goal was to find one that looks like a small night city but couldn't find find one that matched my vision so I used this one as a placeholder for the deliverable.
 
@@ -33,9 +46,15 @@ I added a simple coloured semi transparent rectangle sprite as a filter to simul
 
 Lastly, I used a nostalgia inducing piano song I found on YouTube as backround music. Again, I originally intended to create my own music for this project, but again, I indend to do it for the next one!
 
+https://www.youtube.com/watch?v=YOxZh2OaydM
+
 I also intend to fix  the colliders.
 
 P.S. I hope you're able to find the small easter egg i added :)
+
+((spoilers :) ))
+
+![Στιγμιότυπο οθόνης 2022-12-18 015020](https://user-images.githubusercontent.com/115796369/208270491-ac826669-0b66-4b7d-aa95-5936ec16ecff.png)
 
 # 2nd Deliverable
 I spent 2 days in front of my laptop and added so many things I don't remember the exact order, but I will do my best to make my fried brain remember.
@@ -43,16 +62,31 @@ I spent 2 days in front of my laptop and added so many things I don't remember t
 First I decided to edit my main character's sprite so that they can change direction when the player presses a key.
 
 I designed and drew the new pixel art sides myself using the pixel art program editor aseprite.
-Here is the before and after.
+
+![IMG_1322](https://user-images.githubusercontent.com/115796369/208270582-d3882ba0-6604-427d-8f72-8a6c16e74dd5.jpg)
+
+Here is the after.
+
+![IMG_1324](https://user-images.githubusercontent.com/115796369/208269650-3bbb7cab-ffb9-4ef3-9729-e8de98fb8d31.GIF)
+
 
 Then I imported them into the game to test the animator. It worked but simply changing the direction of my character while walking did not feel natural enough.
 
 Sooooooooooooo
 
-I decided to animate four directions of walking.
-I  designed the walk using 8 frames for each direction.
+I decided to animate four directions of walking myself ( for the first time) .
 
-Again this is the before and after.
+![IMG_1523](https://user-images.githubusercontent.com/115796369/208270594-cd087aed-823b-4344-9b58-d64211e0b9ea.jpg)
+
+I  drew the walk using 8 frames for each direction.
+
+Again this is the four gifs I drew.
+
+![MC2 0_front](https://user-images.githubusercontent.com/115796369/208269669-dcb02047-b0de-450f-8b7f-bab21caf8b31.gif)
+![MC2 0_left](https://user-images.githubusercontent.com/115796369/208269671-f0a0e37e-fd0e-4c12-9dfc-1f6748acfe68.gif)
+![MC2 0_right](https://user-images.githubusercontent.com/115796369/208269673-0dfe6019-18fe-46df-b2a5-cab2f2a2d63b.gif)
+![MC2 0_back](https://user-images.githubusercontent.com/115796369/208269674-c708af01-f996-47b3-b4ed-9c132d1cd342.gif)
+
 
 I imported everything in unity and fixed the animation so that the player can switch between a state of moving (using the walking animation), not moving 
 (while holding the previous direction of the character).
@@ -70,7 +104,12 @@ But I adjusted the pivot point on my sprites and it made everything seem a bit m
 I added health to my player. 
 
 Then I Added Enemies. First I added an animated spike trap.
+
+![RlYTwO](https://user-images.githubusercontent.com/115796369/208269872-55477228-285a-4ab5-8a76-aa14b780cc4c.gif)
+
 Then an animated Red slime. I programmed them to move in a square and do damage to my player. 
+
+![4TsZ10](https://user-images.githubusercontent.com/115796369/208269857-f34f20fc-aa88-4ea7-bdd8-46dc59810f74.gif)
 
 Then after testing I found out that 5 lives are far too many and I wanted the game to be a bit less forgiving. So I reduced the max health to 3 health points 
 and set the invincibility timer from 2 to 0.5.
@@ -80,27 +119,55 @@ After all that I discovered that there will be no way to tell the changes made t
 So I opened up aseprite editor and added a red transparent layer on top of the 4 sides of the character to use them as custom animations, indicating when they player
 gets hit. I imported them to unity and the game could show when the player gets hit.
 
+![fronthit](https://user-images.githubusercontent.com/115796369/208270719-06d7f8d2-b55a-4999-9350-b9d01ab91912.gif)
+
 However there was no indication for when the health gets to zero. So I programmed a game manager added a custom script to reset the scene after the player gets hit.
 
 After that I also decided I want to have the players currenth health visible to the player so I also added a text mesh pro object and a script to change it.
 I also imported a custom pixel font for a more universal look. 
 
+![tRRefY](https://user-images.githubusercontent.com/115796369/208269839-757279f3-c5ab-4340-b7b7-84cc7903b033.gif)
+
+![Στιγμιότυπο οθόνης 2022-12-18 013805](https://user-images.githubusercontent.com/115796369/208270050-a3bcf370-15cc-49ef-81a3-f2741923bef4.png)
+
+
 I downloaded some food sprites I found online and added a jar of marmelade to heal the player because I love marmelade. I added projectiles so I used the steak sprite from the same pack. No specific reason why I chose steaks.
 
+![Στιγμιότυπο οθόνης 2022-12-18 013845](https://user-images.githubusercontent.com/115796369/208270441-c1b322dd-bfef-439d-8b16-059343d813e2.png)
+
+
+![Food](https://user-images.githubusercontent.com/115796369/208270067-905aa611-7258-4c3b-a5de-13232d54b87f.png)
+
+
 In the end, I wanted to make the npc character get angry and chase down the player if they hit her with the projectile 3 times, but I couldn't find a way in time 
-for the deliverable so I chose not to.
+for the deliverable so I chose not to. And I made her unfreeze her rotating on the z axis whet being hit inspead.
+
+Here is the chasing script though, it works and I plan on adding it next time.
+
+![IMG_1519](https://user-images.githubusercontent.com/115796369/208269732-67d29663-b9df-41b6-bec4-f2c78fb87e32.jpg)
 
 But I wanted the game to feel a bit more interactive so I left behind messages for the player if they get near the icon of the old compurter disk on the left.
 
 I made it work with isTrigger 2d box colliders and made the text change once they exit it there will be a second message, but there's a bug and the player might miss the first message if they throw a projectile on the area or dont stay long enough to read it, I intend to fix on the next version.
 
-Then I made the npc character chase the player with a custom scrpit but it's not visibl
+Here are the two texts I added in case you missed them, but I recommend playing the game first because they kinda spoil it.
 
-Here are the two texts I added in case you missed them.
+![Στιγμιότυπο οθόνης 2022-12-18 013943](https://user-images.githubusercontent.com/115796369/208270012-6948402d-dbfe-4d0c-8835-95d65e9852ba.png)
+
+![Στιγμιότυπο οθόνης 2022-12-18 014028](https://user-images.githubusercontent.com/115796369/208270018-06be83df-93e6-45e9-87c3-00114eb65257.png)
 
 I also did some post processing to make the game more atmospheric, hopefully inducing the feeling of a dream.
 
-Finally I wrote a small story ( only one chapter for now) so that I can get inspired to make this game something that is worth playing on it's own.
+You know the drill, Before 
+
+![IMG_1510](https://user-images.githubusercontent.com/115796369/208269757-9f500c01-199d-4d92-ac01-e90f27208098.jpg)
+
+And After 
+
+![IMG_1512](https://user-images.githubusercontent.com/115796369/208269762-1fadb26b-8a57-478f-a5c4-2c03dad66c23.jpg)
+
+
+Finally I wrote another small story ( only one chapter for now) so that I can get inspired to make this game something that is worth playing on it's own.
 My hope is that this game will live on even after the end of the semester and we will be left with a nice story to experience.
 
 You can find the draft on the my_report>dpsd18139 folder.

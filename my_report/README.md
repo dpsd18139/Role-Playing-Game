@@ -175,9 +175,70 @@ But here is the link for convenience.
 https://github.com/dpsd18139/Role-Playing-Game/blob/main/my_report/dpsd18139/BehindTransientGarden_ch0.pdf
 
 # 3rd Deliverable 
-TBA !!!
+Seeing my pale reflection in the mirror, I realise I haven't been outside in 3 days. Again, I spent so much time on this I am bound to have forgotted some things.
+
+First, I decided what is missing most from my game, is a menu. Don't ask me why. I just like variety, I guess.
+So after I spent half a day on finding a way to animate overlay opacities via script, I made a mini animation like menu for my main screen.
+
+![menu](https://user-images.githubusercontent.com/115796369/212586035-ba62f8a1-45b1-4594-94dc-dbc1431f3443.png)
+![menuoprions](https://user-images.githubusercontent.com/115796369/212586299-ece444c1-2454-4afc-9d4d-0f8088049e51.png)
+
+
+The optipns are: 
+* Play: Loads the first scene
+* Options: Enables Option menu, where I added a functional audio slider, that saves the player's preference throughtout the game.
+* Extra: this is an extra button. It's so extra it doesn't even have a function.
+
+![soundcode](https://user-images.githubusercontent.com/115796369/212586349-6e6b4e04-e1ce-44ee-a213-6f3af3ad634c.png)
+
+
+Also I founda way to use my post processing settings on UI elements too :)
+
+After all these, I decided I wanted to stay true to the original vision of the story, so I made the inside of the house of the Main Character.
+After that I added the necessary collisions and a note from the NPC to the player.
+
+But I needed a way for the character to exit the house and be teleported to the main scene.
+For this, I put a trigger collider on the door, because I liked the feel of instantly being transported rather than having to press a button in order for
+a ray cast to work.
+
+Do not worry though, I am using raycast for something else later down the line *dialogue cough cough*
+
+![house](https://user-images.githubusercontent.com/115796369/212586480-35576fd0-441a-414b-9254-1a0c6c48b54c.png)
+
+
+((I also added a temporary way to be transported inside, I might turn it into  a house exterior later. ))
+
+After that I thought I'd try my hand at particles.
+I wanted to simulate leaves falling down from the sky in the main scene.
+So I used a sprite sheet from this asset pack called Ninjas Adventure on Itchio!
+[Uploading YzEJnE.gif…]()
+
+ALSO I ADDED RAYCAST!!!!!!!!!!!!!!!!!!!!!!!!1!
+
+[Uploading ddddddddddddddd.png…]()
+
+When the player enters the trigger collider of my NPC, a message pops out and tells them to press E to talk to her !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+![ddddddd](https://user-images.githubusercontent.com/115796369/212587743-ffdf4c80-8663-4510-b28c-806886b1748e.png)
+
+I also fixed the script for my NPC to chase the player. But she won't collide with any object because she's a ghost!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+![m3](https://user-images.githubusercontent.com/115796369/212589011-17cb3fde-273b-4a0c-a715-bcb0520814bf.png)
+
+Finally, I added more messages for the player in different records. I named them DevNotes.
+There are 9 in total and I was planning to make a score counter for them but I thought I would do something more original.
+
+If you're too bored to find them, I suppose I could show some of them here. But not all.
+![m1](https://user-images.githubusercontent.com/115796369/212588480-e11909bc-8a12-425b-ba65-9ef6a3d87631.png)
+![m2](https://user-images.githubusercontent.com/115796369/212588495-d7271add-00b9-49bc-9431-a62beb162b83.png)
+
+I added a BIG Message (and a sound) If the player collects the final record, and another one when they die (no sound just silence). 
+
+![uded](https://user-images.githubusercontent.com/115796369/212589315-17f8f64d-2b90-44e0-a2cb-e90f120a0722.png)
 
 # Conclusions
+My back hurts, I need a better chain and I'm way better at developing a game than I was at the start of the semester.
+This was harder than I anticipaated, but not impossible. 
+
 
 
 # Sources

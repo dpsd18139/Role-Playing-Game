@@ -18,14 +18,13 @@ Enjoy:)
 
 ![Sprite-0001](https://user-images.githubusercontent.com/115796369/212590839-9c774dd0-a559-406a-8980-bebbd0d03744.png)
 
-✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
+✿✿✿
 
 # Summary
 
 Here I'll summarize the vision I originally had  for this game.
 
 I wanted to make a game that appears to be self aware of it's existence as a university project.
-
 To make such a game you have to break the 4th wall of immersion multiple times.
 
 Whether I accomplished my original goal is up for debate,
@@ -34,12 +33,12 @@ It's packed with meta humour, mostly concerning it's incompleteness.
 
 Bellow I offer a log of my original thoughts during each development phase, based on the deliverables.
 
-I thought about editing it to fix the typos, but decided not to in order to preserve the rawness of the feelings I had during the process.
+I thought about editing it to fix the typos, but decided not to in order to preserve the rawness of emotions I had during the process.
 I recommend that you play the game since you might be left a bit confused just by reading this. 
 
 :)
 
-✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
+✿✿✿
 
 # 1st Deliverable
 
@@ -81,7 +80,7 @@ P.S. I hope you're able to find the small easter egg i added :)
 
 ![Στιγμιότυπο οθόνης 2022-12-18 015020](https://user-images.githubusercontent.com/115796369/208270491-ac826669-0b66-4b7d-aa95-5936ec16ecff.png)
 
-✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
+✿✿✿
 
 # 2nd Deliverable
 I spent 2 days in front of my laptop and added so many things I don't remember the exact order, but I will do my best to make my fried brain remember.
@@ -201,6 +200,8 @@ You can find the draft on the my_report>dpsd18139 folder.
 But here is the link for convenience.
 https://github.com/dpsd18139/Role-Playing-Game/blob/main/my_report/dpsd18139/BehindTransientGarden_ch0.pdf
 
+✿✿✿
+
 # 3rd Deliverable 
 Seeing my pale reflection in the mirror, I realise I haven't been outside in 3 days. Again, I spent so much time on this I am bound to have forgotted some things.
 
@@ -262,13 +263,13 @@ I added a BIG Message (and a sound) If the player collects the final record, and
 
 ![uded](https://user-images.githubusercontent.com/115796369/212589315-17f8f64d-2b90-44e0-a2cb-e90f120a0722.png)
 
-✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
+✿✿✿
 
 # Conclusions
 My back hurts, I need a better chain and I'm way better at developing a game than I was at the start of the semester.
 This was harder than I anticipaated, but not impossible. 
 
-✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
+✿✿✿
 
 # Sources
 
@@ -283,7 +284,7 @@ This was harder than I anticipaated, but not impossible.
 * Silver font: https://poppyworks.itch.io/silver
 * Ninja Adventure: https://pixel-boy.itch.io/ninja-adventure-asset-pack
 
-✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
+✿✿✿
 
 # Tools
 Aseprite: https://dacap.itch.io/aseprite

@@ -9,22 +9,28 @@
 # Introduction
 
 
-Hello, you're currently reading the introduction I wrote for my ongoing assigment for my Video Game Development university class.
-As you're reading this, you're about to embark on a jounery with me. One filled with blood, sweat and tears, but also passion.
+Hello, 
+you're currently reading the introduction I wrote for my ongoing assigment for my GameDev university class.
+As you're reading this, you're about to embark on a jounery with me.
+One filled with blood, sweat and tears, but also passion.
 
 Enjoy:)
 
 ![Sprite-0001](https://user-images.githubusercontent.com/115796369/212590839-9c774dd0-a559-406a-8980-bebbd0d03744.png)
 
-
+✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
 
 # Summary
 
 Here I'll summarize the vision I originally had  for this game.
+
 I wanted to make a game that appears to be self aware of it's existence as a university project.
+
 To make such a game you have to break the 4th wall of immersion multiple times.
-Whether I accomplished my original goal is up for debate, but ultimately this is a game that has been evolved consciously alongside it's progression in the
-development phase. It's packed with meta humour, mostly concerning it's incompleteness.
+
+Whether I accomplished my original goal is up for debate,
+but ultimately this is a game that has been evolved consciously alongside it's progression in thedevelopment phase. 
+It's packed with meta humour, mostly concerning it's incompleteness.
 
 Bellow I offer a log of my original thoughts during each development phase, based on the deliverables.
 
@@ -32,6 +38,8 @@ I thought about editing it to fix the typos, but decided not to in order to pres
 I recommend that you play the game since you might be left a bit confused just by reading this. 
 
 :)
+
+✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
 
 # 1st Deliverable
 
@@ -72,6 +80,8 @@ P.S. I hope you're able to find the small easter egg i added :)
 ((spoilers :) ))
 
 ![Στιγμιότυπο οθόνης 2022-12-18 015020](https://user-images.githubusercontent.com/115796369/208270491-ac826669-0b66-4b7d-aa95-5936ec16ecff.png)
+
+✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
 
 # 2nd Deliverable
 I spent 2 days in front of my laptop and added so many things I don't remember the exact order, but I will do my best to make my fried brain remember.
@@ -252,11 +262,13 @@ I added a BIG Message (and a sound) If the player collects the final record, and
 
 ![uded](https://user-images.githubusercontent.com/115796369/212589315-17f8f64d-2b90-44e0-a2cb-e90f120a0722.png)
 
+✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
+
 # Conclusions
 My back hurts, I need a better chain and I'm way better at developing a game than I was at the start of the semester.
 This was harder than I anticipaated, but not impossible. 
 
-
+✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
 
 # Sources
 
@@ -266,9 +278,12 @@ This was harder than I anticipaated, but not impossible.
 * Animated Traps: https://stealthix.itch.io/animated-traps
 * Slime Enemy: https://warsvault.itch.io/high-fantasy-slime-enemy 
 * Food Icons: https://henrysoftware.itch.io/pixel-food
-* RPG Icon demo: https://franuka.itch.io/rpg-icon-pack-demo
+* RPG Icon demo: https://franuka.itc
+* h.io/rpg-icon-pack-demo
 * Silver font: https://poppyworks.itch.io/silver
 * Ninja Adventure: https://pixel-boy.itch.io/ninja-adventure-asset-pack
+
+✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
 
 # Tools
 Aseprite: https://dacap.itch.io/aseprite

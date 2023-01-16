@@ -262,6 +262,8 @@ I added a BIG Message (and a sound) If the player collects the final record, and
 
 ![uded](https://user-images.githubusercontent.com/115796369/212589315-17f8f64d-2b90-44e0-a2cb-e90f120a0722.png)
 
+AND LASTLY I also added a sound for the projectiles, as well as a script that emits particles if the projectile hits and object.
+
 ✿✿✿
 
 # Conclusions

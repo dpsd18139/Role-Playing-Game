@@ -8,13 +8,30 @@
 
 # Introduction
 
-TBA ( on the last deliverable)
+
+Hello, you're currently reading the introduction I wrote for my ongoing assigment for my Video Game Development university class.
+As you're reading this, you're about to embark on a jounery with me. One filled with blood, sweat and tears, but also passion.
+
+Enjoy:)
+
+![Sprite-0001](https://user-images.githubusercontent.com/115796369/212590839-9c774dd0-a559-406a-8980-bebbd0d03744.png)
+
+
 
 # Summary
 
-It's a test summary
+Here I'll summarize the vision I originally had  for this game.
+I wanted to make a game that appears to be self aware of it's existence as a university project.
+To make such a game you have to break the 4th wall of immersion multiple times.
+Whether I accomplished my original goal is up for debate, but ultimately this is a game that has been evolved consciously alongside it's progression in the
+development phase. It's packed with meta humour, mostly concerning it's incompleteness.
 
-TBA ( on the last deliverable)
+Bellow I offer a log of my original thoughts during each development phase, based on the deliverables.
+
+I thought about editing it to fix the typos, but decided not to in order to preserve the rawness of the feelings I had during the process.
+I recommend that you play the game since you might be left a bit confused just by reading this. 
+
+:)
 
 # 1st Deliverable
 
@@ -251,6 +268,7 @@ This was harder than I anticipaated, but not impossible.
 * Food Icons: https://henrysoftware.itch.io/pixel-food
 * RPG Icon demo: https://franuka.itch.io/rpg-icon-pack-demo
 * Silver font: https://poppyworks.itch.io/silver
+* Ninja Adventure: https://pixel-boy.itch.io/ninja-adventure-asset-pack
 
 # Tools
 Aseprite: https://dacap.itch.io/aseprite

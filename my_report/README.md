@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Lesson: Digital & Serious Games
 
 ### First and Last Name: Paraskevi Evelina Kallergi
@@ -28,10 +28,10 @@ I wanted to make a game that appears to be self aware of it's existence as a uni
 To make such a game you have to break the 4th wall of immersion multiple times.
 
 Whether I accomplished my original goal is up for debate,
-but ultimately this is a game that has been evolved consciously alongside it's progression in thedevelopment phase. 
+but ultimately this is a game that has been evolved consciously alongside it's progression in the development phase. 
 It's packed with meta humour, mostly concerning it's incompleteness.
 
-Bellow I offer a log of my original thoughts during each development phase, based on the deliverables.
+Below I offer a log of my original thoughts during each development phase, based on the deliverables.
 
 I thought about editing it to fix the typos, but decided not to in order to preserve the rawness of emotions I had during the process.
 I recommend that you play the game since you might be left a bit confused just by reading this. 
